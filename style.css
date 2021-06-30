@@ -15,6 +15,7 @@ footer {
 }
 .logo-head {
     max-width: 450px;
+    
 }
 .box {
     padding: 1rem;
@@ -84,7 +85,7 @@ footer {
   }
 .p-main {
     color: #fae5bc;
-    padding: 100px;
+    padding: 25px;
     font-size: 40px;
     font-family:'Montserrat', sans-serif;
 }
